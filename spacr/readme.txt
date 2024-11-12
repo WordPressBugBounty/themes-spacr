@@ -2,9 +2,9 @@
 Contributors: envothemes
 Tags: one-column, two-columns, full-width-template, right-sidebar, custom-background, custom-menu, custom-header, editor-style, featured-images, translation-ready, custom-logo, threaded-comments, footer-widgets, rtl-language-support, blog, e-commerce
 Requires at least: 4.4
-Tested up to: 6.3
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 
@@ -95,6 +95,9 @@ All other resources and theme elements are licensed under the [GNU GPL](http://w
 Entr is distributed under the terms of the GNU GPL (http://www.gnu.org/licenses/gpl-3.0.txt), version 3 or later.
 
 == Changelog ==
+
+= Version 1.0.5 =
+* Tagged with WP 6.7
 
 = Version 1.0.4 =
 * Added recommended plugin notify
